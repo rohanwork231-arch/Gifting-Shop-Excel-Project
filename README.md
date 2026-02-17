@@ -1,7 +1,7 @@
 # 🛍️ Retail Gift Business Performance Analysis | Excel
 
 ## 📌 Project Overview
-Analyzed 1,000+ transaction records from **Ferns N Petals** (India's leading gifting brand) to identify revenue drivers, top-performing product categories, and delivery performance benchmarks using Advanced Excel.
+Analyzed 1,000+ transaction records from a retail gifting business to identify revenue drivers, top-performing product categories, and delivery performance benchmarks using Advanced Excel.
 
 ---
 
